@@ -72,6 +72,9 @@ npm run dev
 ### Resultados e Ranking
 ![Resultados e ranking dos participantes](images/results.png)
 
+### Resultado Final
+![Resultado final da copa](images/final-results.png)
+
 ### Palpites do Participante
 ![Formulário de palpites via link único](images/link-acessos.png)
 
